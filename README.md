@@ -2,6 +2,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-deodato&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-deodato&layout=compact&theme=tokyonight">
 </div>
   
 ## Tecnologias que utilizo :computer: 
