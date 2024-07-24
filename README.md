@@ -1,13 +1,15 @@
-### Hi there 👋
+### Olá!! 👋
 
 <div>
-  <a href="https://github.com/Lucas-deodato">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Deodato&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-deodato&show_icons=true&theme=tokyonight">
 </div>
   
-## Most used languages  :computer: 
-  
+## Tecnologias que utilizo :computer: 
+
 <div style="display: inline_block">
-  <img align="center" alt="Js" height="40" width="45" style="margin: 3px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </div>
