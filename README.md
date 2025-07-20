@@ -18,6 +18,6 @@
 <div>
   <ul>
     <li><a href="https://www.sidechannel.blog/tecnicas-de-anti-flapping-e-correlacao-no-zabbix-para-mitigar-falsos-positivos-em-um-soc">Técnicas de anti-flapping e correlação no Zabbix para mitigar falsos positivos em um SOC </a></li>
-    <li><a href="https://www.sidechannel.blog/tecnicas-de-anti-flapping-e-correlacao-no-zabbix-para-mitigar-falsos-positivos-em-um-soc">Técnicas de spoofing e AiTM em redes LAN com exploração em ambiente Zabbix</a></li>
+    <li><a href="https://www.sidechannel.blog/tecnicas-de-spoofing-e-aitm-em-redes-lan-com-exploracao-em-ambiente-zabbix">Técnicas de spoofing e AiTM em redes LAN com exploração em ambiente Zabbix</a></li>
   </ul>
 </div>
