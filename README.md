@@ -19,6 +19,6 @@
   <ul>
     <li><a href="</a>https://www.sidechannel.blog/tecnicas-de-anti-flapping-e-correlacao-no-zabbix-para-mitigar-falsos-positivos-em-um-soc">Técnicas de anti-flapping e correlação no Zabbix para mitigar falsos positivos em um SOC</li>
       <br>
-    <li><a href="</a>https://www.sidechannel.blog/tecnicas-de-anti-flapping-e-correlacao-no-zabbix-para-mitigar-falsos-positivos-em-um-soc">Técnicas de anti-flapping e correlação no Zabbix para mitigar falsos positivos em um SOC</li>
+    <li><a href="</a>https://www.sidechannel.blog/tecnicas-de-anti-flapping-e-correlacao-no-zabbix-para-mitigar-falsos-positivos-em-um-soc"></li>
   <ul>
 </div>
